@@ -21,7 +21,8 @@
 4. Run `npm run dev` in the `backend/` folder to start the **NodeJS Server**.
 5. Access the app via the provided *localhost URL*
 
-**NOTE: I have provided the .env files in the repo since this is for exam purposes, although I understand this is not recommended in a production setting**.
+🚨 **I have provided the .env files in the repo since this is for exam purposes, although I understand this is not recommended in a production setting**.
+🚨 **If you get a "token error" the first time you sign in - please clear local storage and refresh the page**.
 
 ### Screenshots
 
